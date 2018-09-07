@@ -1,0 +1,73 @@
+
+/*Sign Up    #00baf7*/
+body{
+}
+#container
+{
+	margin:auto;
+	margin-top:20px;
+}
+#sign-form
+{
+	height:535px;
+	width:400px;
+	background-color:white;
+	margin:auto;
+}
+#sign-form h2{
+	text-align:center;
+	padding: 0px 10px 0px 0px;
+}
+
+#sign-form .inputField
+{
+	padding: 0px 0px 0px 15px;
+	height: 40px;
+	width:250px;
+	margin:0px 0px 5px 40px;
+	background-color: rgba(201,201,201,0.5);
+	border: none;
+	border-radius:10px;
+
+}
+#sign-form img{
+	height:50px;
+	width: :100px;
+	padding: 13px 2px 0px 172px;
+}
+#submitBtn{
+	background-color:#00baf7;
+	height:30px;
+	width: 200px;
+	margin-left:80px;
+	margin-top:20px;
+	border:none;
+	border-radius:20px;
+	color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
+#sign-form p{
+	margin-left: 80px;
+}
+#sign-form p a{
+	text-decoration: none;
+	color:blue;
+}
+#submitBtn:hover{
+	background-color:#0033ee;
+}
+#AlreadError
+{
+	color:white;
+}
+header{
+	position:relative;
+height:20px;
+}
+header form input[type=submit]
+{
+
+	  background-color: rgba(32,0,32,0.8);
+	  color:white;
+}
